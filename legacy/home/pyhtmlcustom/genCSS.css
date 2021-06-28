@@ -1,0 +1,159 @@
+#zTitleBar {
+	background-color: #2B2A33;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	white-space: nowrap;
+	overflow-x: auto;
+}
+
+.zHeading {
+	font-size: 20px;
+	color: white;
+	font-family: "Helvetica";
+}
+
+.zTitleButton {
+	border-radius: 100%;
+	padding: 12px 12px;
+	background-color: #2B2A33;
+	border: 4px solid ;
+	margin-left: 5px;
+}
+
+#red{
+	border-color: red;
+}
+
+#orange{
+	border-color: yellow;
+}
+
+#orange:hover {
+	background-color: yellow;
+}
+
+#red:hover {
+	background-color: red;
+}
+
+#zTitle {
+	margin-left: 5px;
+}
+
+#zBody {
+	background-color: #1C1B22;
+	margin-top: 60px;
+	white-space: nowrap;
+	overflow-x: auto;
+}
+
+#zwBody {
+	background-color: #1C1B22;
+	white-space: nowrap;
+	overflow-x: auto;
+}
+
+* {cursor: url(https://cur.cursors-4u.net/cursors/cur-4/cur330.cur), auto !important;}
+
+.zInput {
+	cursor: url(https://cur.cursors-4u.net/cursors/cur-4/cur332.cur), auto !important;
+	color: white;
+	background-color: rgb(89, 88, 97);
+	border-style: dotted;
+	border-color: black;
+}
+
+.zTop {
+	margin-top: 65px;
+}
+
+.zButton-small {
+	background-color: rgb(89, 88, 97);
+	color: white;
+	font-family: "Helvetica";
+	border: none;
+	padding: 8px 13px;
+	position: relative;
+	border-radius: 10%;
+}
+
+.zButton-small:hover {
+	background-color: rgb(102, 99, 125);
+	background-image: none;
+}
+
+.zButton-small:active {
+	background-image: none;
+	background-color: #1C1B22;
+}
+
+.zButton-med {
+	background-color: rgb(89, 88, 97);
+	color: white;
+	font-family: "Helvetica";
+	border: none;
+	padding: 10px 15px;	
+	font-size: 20px;
+	position: relative;
+	border-radius: 10%;
+}
+
+.zButton-med:hover {
+	background-color: rgb(102, 99, 125);
+	background-image: none;
+}
+
+.zButton-med:active {
+	background-image: none;
+	background-color: #1C1B22;
+}
+
+.zButton-large {
+	background-color: rgb(89, 88, 97);
+	color: white;
+	border: none;
+	padding: 10px 15px;	
+	font-size: 30px;
+	position: relative;
+	border-radius: 10%;
+}
+
+.zButton-large:hover {
+	background-color: rgb(102, 99, 125);
+	background-image: none;
+}
+
+.zButton-large:active {
+	background-image: none;
+	background-color: #1C1B22;
+}
+
+.zPanel-left {
+	margin-right: 10px;
+	display: inline-table;
+	background-color: #2B2A33;
+	padding: 10px 10px;
+}
+
+.zPanel-right {
+	margin-left: 10px;
+	float: right;
+	display: inline-table;
+	background-color: #2B2A33;
+	padding: 10px 10px;
+}
+
+.zPanel-top {
+	margin-bottom: 10px;
+	float: top;
+	display: inline-table;
+	background-color: #2B2A33;
+	padding: 10px 10px;
+}
+
+@font-face {
+  font-family: "SF Pro";
+  src: url("SFProDisplay-Light.ttf") format("truetype");
+}
