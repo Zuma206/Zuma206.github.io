@@ -1,0 +1,157 @@
+#zTitleBar {
+background-color: #ff8040;
+top: 0px;
+left: 0px;
+right: 0px;
+position: absolute;
+white-space: nowrap;
+overflow-x: auto;
+}
+
+.zHeading {
+font-size: 20px;
+color: #000000;
+font-family: "SF Pro";
+}
+
+.zTitleButton {
+border-radius: 100%;
+padding: 12px 12px;
+background-color: #ff8040;
+border: 4px solid ;
+margin-left: 5px;
+}
+
+#red{
+border-color: #21ff09;
+}
+
+#orange{
+border-color: #ffee15;
+}
+
+#orange:hover {
+background-color: #ffee15;
+}
+
+#red:hover {
+background-color: #21ff09;
+}
+
+#zTitle {
+margin-left: 5px;
+}
+
+#zBody {
+background-color: #ff1c21;
+margin-top: 60px;
+white-space: nowrap;
+overflow-x: auto;
+}
+
+#zwBody {
+background-color: #ff1c21;
+white-space: nowrap;
+overflow-x: auto;
+}
+
+* {cursor: url(https://ani.cursors-4u.net/cursors/cur-12/cur1080.cur), auto !important;}
+
+.zInput {
+cursor: url(https://cur.cursors-4u.net/cursors/cur-4/cur332.cur), auto !important;
+color: #000000;
+background-color: #717171;
+border-style: dotted;
+border-color: black;
+}
+
+.zTop {
+margin-top: 65px;
+}
+
+.zButton-small {
+background-color: #717171;
+color: #000000;
+font-family: "SF Pro";
+border: none;
+padding: 8px 13px;
+position: relative;
+border-radius: 10%;
+}
+
+.zButton-small:hover {
+background-color: #ffffff;
+}
+
+.zButton-small:active {
+background-color: #ff1c21;
+}
+
+.zButton-med {
+background-color: #717171;
+color: #000000;
+font-family: "SF Pro";
+border: none;
+padding: 10px 15px;
+font-size: 20px;
+position: relative;
+border-radius: 10%;
+}
+
+.zButton-med:hover {
+background-color: #ffffff;
+background-image: none;
+}
+
+.zButton-med:active {
+background-image: none;
+background-color: #ff1c21;
+}
+
+.zButton-large {
+background-color: #717171;
+color: #000000;
+border: none;
+padding: 10px 15px;
+font-size: 30px;
+position: relative;
+border-radius: 10%;
+}
+
+.zButton-large:hover {
+background-color: #ffffff;
+background-image: none;
+}
+
+.zButton-large:active {
+background-image: none;
+background-color: #ff1c21;
+}
+
+.zPanel-left {
+margin-right: 10px;
+display: inline-table;
+background-color: #ff8040;
+padding: 10px 10px;
+}
+
+.zPanel-right {
+margin-left: 10px;
+float: right;
+display: inline-table;
+background-color: #ff8040;
+padding: 10px 10px;
+}
+
+.zPanel-top {
+margin-bottom: 10px;
+float: top;
+display: inline-table;
+background-color: #ff8040;
+padding: 10px 10px;
+}
+
+@font-face {
+font-family: "SF Pro";
+src: url("SFProDisplay-Light.ttf") format("truetype");
+}
