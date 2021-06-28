@@ -1,0 +1,11 @@
+---
+remote_theme: lewismiddleton/cayman-dark
+title: Zuma
+description: bad code and stuff
+---
+
+```{css my-header-colors, echo = FALSE}
+.page-header {
+    background-image: linear-gradient(120deg, red, orange);
+}
+```
