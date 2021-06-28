@@ -6,7 +6,7 @@ An example text editor made in bootstrap and eel<br><br>
 <br><br>
 ### pyHTML
 A library for python that allows you to build an html website. Literally just for people who hate html.<br><br>
-[View on Zuma206.github.io](https://zuma206.github.io/pyhtml.html)
+[View on Zuma206.github.io](https://zuma206.github.io/legacy/pyhtml)
 <br><br>
 ### Key Material
 Written in C# .NET, this app lets you steal saved passwords off of any Windows 10 (possibly later) computer.<br><br>
